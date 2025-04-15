@@ -15,6 +15,10 @@ function App() {
         "https://blog.toroinvestimentos.com.br/wp-content/uploads/2024/01/investir-em-imoveis-para-alugar-e-um-bom-negocio.png",
         "https://i1.wp.com/catagua.com.br/wp-content/uploads/2020/06/investimento-descubra-os-motivos-para-comprar-imoveis-no-interior.jpg",
         "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s",
+        "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhb8QcRmr4g8Y6TlipgACw-Aubm16rsZ5Uw&s"
+      
       ],
     },
     {
@@ -156,7 +160,7 @@ function App() {
                       <p className="text-yellow-600 text-xl font-bold mt-4">{imovel.preco}</p>
                       <button
                         onClick={() => setImovelSelecionado(imovel.id)}
-                        className="mt-6 w-full bg-black text-white py-2 rounded-full hover:bg-gray-800"
+                        className="mt-6 w-full bg-black text-white py-2 rounded-full hover:bg-black hover:text-white"
                       >
                         Ver Detalhes
                       </button>
