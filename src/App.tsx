@@ -32,8 +32,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -46,8 +46,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -60,8 +60,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -74,8 +74,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -88,8 +88,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -102,8 +102,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -116,8 +116,8 @@ function App() {
       descricao: "240m² • 4 Suítes • 3 Vagas",
       preco: "R$ 2.300.000",
       midia: [
-        { url: "https://www.youtube.com/embed/6VwK4iuH_EE", tipo: "video" },
-        { url: "https://www.youtube.com/embed/ftfjkKUsieQ", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
+        { url: "https://www.youtube.com/watch?v=6gDhsUWCHrg", tipo: "video" },
         { url: "https://stgecommerceprd.blob.core.windows.net/blob-ecom-img/assets/locacao_imoveis_0411d5d55c.jpg", tipo: "imagem" },
         { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6O9BfYnu0N7OEOJPj0dYKlIELEpAK40yWA&s", tipo: "imagem" },
         { url: "https://s2-valor.glbimg.com/EY1P88gXexOxnXY_Gy8A_9BQVWU=/0x0:630x469/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/X/z/xxeZd7RtevD0BrNWuBSA/fotaleza.png", tipo: "imagem" },
@@ -169,7 +169,7 @@ function App() {
                   <div>
                     {imagemPrincipal?.tipo === "video" ? (
                       <iframe
-                        src={imagemPrincipal.url}
+                        src={`https://www.youtube.com/embed/${imagemPrincipal.url.split("v=")[1]}`}
                         className="h-[450px] w-full object-cover rounded-2xl shadow-lg"
                         allowFullScreen
                       ></iframe>
