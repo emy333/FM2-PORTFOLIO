@@ -1,7 +1,7 @@
 import { FaWhatsapp } from "react-icons/fa";
 
 export const EntreContato = () => {
-    const telefone = '558592015734';
+    const telefone = '';
 
     return (
         <section id="contato" className="py-20 px-6 bg-blue-400 text-center text-gray-900">
